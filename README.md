@@ -1,2 +1,2 @@
 # Binary Search Tree
-## Self-made Ruby BinaryTree class and TreeNode class
+## Self-made Ruby Tree class and TreeNode class

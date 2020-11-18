@@ -18,7 +18,7 @@ class TreeNode
 
   def to_s
     res = []
-    res << "Data: #{data}, "
+    res << "Data: #{data}, Type: #{data.class}"
     res << "Left: #{left}, left-data: #{left.data}"     if self.left
     res << "Right: #{right}, right-data: #{right.data}" if self.right
     res
